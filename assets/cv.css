@@ -1,0 +1,20 @@
+.h2 {
+  font-weight: bolder;
+  font-size: larger;
+  border-bottom: 2px solid black;
+}
+
+.experience-entry {
+  display: inline-flex;
+  margin-bottom: 3ch;
+}
+
+.experience-entry .entry-date {
+  font-weight: bold;
+  width: 12ch;
+}
+
+.experience-entry .entry-description {
+  width: 60ch;
+  margin-left: 5ch;
+}

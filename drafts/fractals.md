@@ -1,13 +1,16 @@
 ---
 layout: post
 title: Fractals
-categories: [python, numpy, math, fractals]
-hidden: true
+author: fkdosilovic
+categories: [python, numpy, math, fractals, wip]
 ---
 
 ## Theory
 
-TODO
+- Mandelbrot's set
+- Mandelbrot's fractal
+- $z_{n + 1} = z_n^2 + c$, where $z_0 = 0$
+- sampling $\mathbb{C}$
 
 ## Implementation
 
