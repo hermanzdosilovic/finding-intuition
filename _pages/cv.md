@@ -4,9 +4,8 @@ title: Filip Karlo Došilović
 permalink: /cv/
 ---
 
-<!-- <link rel="stylesheet" type="text/css" href="style.css" /> -->
 
-<p class="h2 underline">Work Experience</p>
+<p class="h2">Work Experience</p>
 
 <div class="experience-entry">
 <span class="entry-date">Oct 2021. - Present</span>
@@ -34,13 +33,12 @@ strategy game that surpassed human performance.
 </span>
 </div>
 
-<p class="h2 underline">Publications</p>
+<p class="h2">Publications</p>
 
 - F. K. Došilović, M. Brčić and N. Hlupić, "Explainable artificial intelligence: A survey," *2018 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO)*, 2018, pp. 0210-0215, doi: 10.23919/MIPRO.2018.8400040.
 
 <br />
-
-<p class="h2 underline">Education</p>
+<p class="h2">Education</p>
 
 <span><strong>University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia</strong></span>
 
@@ -64,6 +62,32 @@ strategy game that surpassed human performance.
 </span>
 </div>
 
-<p class="h2 underline">Selected Projects</p>
+<br />
+<p class="h2">Selected Projects</p>
 
-TODO
+<p class="h3">University Projects</p>
+
+<div class="experience-entry">
+<span class="entry-date">Fall 2020.</span>
+<span class="entry-description">
+    <strong>Merging statistically similar regions</strong><br />
+    Contemporary approaches for semantic segmentation use deep neural networks
+    and achieve amazing results. Instead of using DNNs for segmenenting images,
+    in this seminar I explore and expand on an algorithm for merging
+    statistically similar regions, usually applied on grayscale images, applied
+    on RGB images.
+</span>
+</div>
+
+<p class="h3">Personal Projects</p>
+
+<div class="experience-entry">
+<span class="entry-date">Feb 2017. – May 2017.</span>
+<span class="entry-description">
+    <a href="https://github.com/fkdosilovic/molecule"><strong>molecule - a simple chess engine written in modern C++</strong></a>
+    <br /> A simple chess engine written in modern C++. Engine features
+    standard components, such as: i) move generation module, based on magic
+    bitboards, ii) alpha–beta pruning and quiescence search, iii) Zobrist
+    hashing for detecting identical states during search.
+</span>
+</div>

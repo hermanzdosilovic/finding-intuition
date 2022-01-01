@@ -4,6 +4,14 @@
   border-bottom: 2px solid black;
 }
 
+.h3 {
+  font-weight: bolder;
+  font-size: large;
+  color: gray;
+  margin-top: 25px;
+  border-bottom: 2px solid gray;
+}
+
 .experience-entry {
   display: inline-flex;
   margin-bottom: 3ch;
